@@ -19,7 +19,7 @@ st.markdown("""
   <a class="navbar-brand" href="#">🎬 Movie Recommender System</a>
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link" href="http://192.168.29.89:8502" target="_self">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="#" target="_self">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#" target="_self">Information</a>
@@ -28,7 +28,7 @@ st.markdown("""
         <a class="nav-link" href="#" target="_self">Requirements</a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="http://192.168.29.89:8502" target="_self">Our Team</a>
+        <a class="nav-link" href="#" target="_self">Our Team</a>
       </li>
     </ul>
   </div>
@@ -74,9 +74,9 @@ st.markdown("""
       </div>
       <h3>Kashish Jain</h3>
       <p class="role">Student</p>
-        <a href="#"><i class="fa fa-lg fa-linkedin-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
-      <a href="#"><i class="fa fa-lg fa-twitter-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
-      <a href="#"><i class="fa fa-lg fa-github-square" style="font-size:40px;color:black"></i></a>   
+        <a href="https://www.linkedin.com/in/kashishjain25/"><i class="fa fa-lg fa-linkedin-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
+      <a href="https://twitter.com/Kashishjain25"><i class="fa fa-lg fa-twitter-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
+      <a href="https://github.com/Kashishjain25"><i class="fa fa-lg fa-github-square" style="font-size:40px;color:black"></i></a>   
        </div>
     <div class="team_member">
       <div class="team_img">
@@ -90,23 +90,23 @@ st.markdown("""
     </div>
     <div class="team_member">
       <div class="team_img">
-        <img src="https://i.imgur.com/jQj1I8E.png" alt="Team_image">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE8f-h6gNMfTQ/profile-displayphoto-shrink_800_800/0/1650048188979?e=1657152000&v=beta&t=AVZ6WAGDGz7eQhO-lchL9h6ZZ-xySl3Nnfz7ogW2-bI" alt="Team_image">
       </div>
       <h3>Medha Upadhyay</h3>
       <p class="role ">Student</p>
-        <a href="#"><i class="fa fa-lg fa-linkedin-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/medha-upadhyay-775bb5237/overlay/photo/"><i class="fa fa-lg fa-linkedin-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
       <a href="#"><i class="fa fa-lg fa-twitter-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
-      <a href="#"><i class="fa fa-lg fa-github-square" style="font-size:40px;color:black"></i></a>  
+      <a href="https://github.com/medhaaupadhyay"><i class="fa fa-lg fa-github-square" style="font-size:40px;color:black"></i></a>  
       </div>    
       <div class="team_member">
       <div class="team_img">
-        <img src="" alt="Team_image">
+        <img src= "https://media-exp1.licdn.com/dms/image/C4E03AQFItpUPfLgm0g/profile-displayphoto-shrink_800_800/0/1619120313434?e=1655337600&v=beta&t=27z-OkVQSZqRg2H1wiu2wkaRurJw3vtTMH6UEnmKg68" alt="Team_image">
       </div>
       <h3>Manshi Bijalwan</h3>
       <p class="role">Student</p>
-        <a href="#"><i class="fa fa-lg fa-linkedin-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
-      <a href="#"><i class="fa fa-lg fa-twitter-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
-      <a href="#"><i class="fa fa-lg fa-github-square" style="font-size:40px;color:black"></i></a>     
+        <a href="https://www.linkedin.com/in/manshi-bijalwan/"><i class="fa fa-lg fa-linkedin-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
+      <a href="https://twitter.com/Bijalwan6601?t=doXp8IAvl1X-d3IwU3UTXQ&s=08"><i class="fa fa-lg fa-twitter-square" style="font-size:40px;color:black"></i></a> &nbsp;&nbsp;
+      <a href="https://github.com/ManshiBijalwan"><i class="fa fa-lg fa-github-square" style="font-size:40px;color:black"></i></a>     
       </div>
   </div>
 </div>
